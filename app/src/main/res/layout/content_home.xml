@@ -15,7 +15,6 @@
         fab:menu_backgroundColor="#ccffffff"
         fab:menu_icon="@drawable/ic_menu_options"
         fab:menu_labels_ellipsize="end"
-        fab:menu_labels_position="right"
         fab:menu_labels_singleLine="true">
 
         <com.silicon.raja.floatingactionmenu.fab.FloatingActionButton
